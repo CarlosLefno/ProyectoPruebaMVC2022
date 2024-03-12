@@ -1,12 +1,123 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\clefn\\source\\repos\\ProyectoPruebaMVC2022\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C395BF3E-BD23-4A96-83C3-B23138FF376B}|ProyectoPruebaMVC2022.csproj|c:\\users\\clefn\\source\\repos\\proyectopruebamvc2022\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C395BF3E-BD23-4A96-83C3-B23138FF376B}|ProyectoPruebaMVC2022.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C395BF3E-BD23-4A96-83C3-B23138FF376B}|ProyectoPruebaMVC2022.csproj|c:\\users\\clefn\\source\\repos\\proyectopruebamvc2022\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C395BF3E-BD23-4A96-83C3-B23138FF376B}|ProyectoPruebaMVC2022.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C395BF3E-BD23-4A96-83C3-B23138FF376B}|ProyectoPruebaMVC2022.csproj|c:\\users\\clefn\\source\\repos\\proyectopruebamvc2022\\datos\\usuariodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C395BF3E-BD23-4A96-83C3-B23138FF376B}|ProyectoPruebaMVC2022.csproj|solutionrelative:datos\\usuariodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C395BF3E-BD23-4A96-83C3-B23138FF376B}|ProyectoPruebaMVC2022.csproj|c:\\users\\clefn\\source\\repos\\proyectopruebamvc2022\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C395BF3E-BD23-4A96-83C3-B23138FF376B}|ProyectoPruebaMVC2022.csproj|solutionrelative:datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C395BF3E-BD23-4A96-83C3-B23138FF376B}|ProyectoPruebaMVC2022.csproj|c:\\users\\clefn\\source\\repos\\proyectopruebamvc2022\\proyectopruebamvc2022.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C395BF3E-BD23-4A96-83C3-B23138FF376B}|ProyectoPruebaMVC2022.csproj|solutionrelative:proyectopruebamvc2022.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C395BF3E-BD23-4A96-83C3-B23138FF376B}|ProyectoPruebaMVC2022.csproj|c:\\users\\clefn\\source\\repos\\proyectopruebamvc2022\\models\\usuariomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C395BF3E-BD23-4A96-83C3-B23138FF376B}|ProyectoPruebaMVC2022.csproj|solutionrelative:models\\usuariomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\clefn\\source\\repos\\ProyectoPruebaMVC2022\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\clefn\\source\\repos\\ProyectoPruebaMVC2022\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T00:25:22.697Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\clefn\\source\\repos\\ProyectoPruebaMVC2022\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\clefn\\source\\repos\\ProyectoPruebaMVC2022\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T02:40:15.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioDatos.cs",
+              "DocumentMoniker": "C:\\Users\\clefn\\source\\repos\\ProyectoPruebaMVC2022\\Datos\\UsuarioDatos.cs",
+              "RelativeDocumentMoniker": "Datos\\UsuarioDatos.cs",
+              "ToolTip": "C:\\Users\\clefn\\source\\repos\\ProyectoPruebaMVC2022\\Datos\\UsuarioDatos.cs",
+              "RelativeToolTip": "Datos\\UsuarioDatos.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T01:32:57.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\clefn\\source\\repos\\ProyectoPruebaMVC2022\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\clefn\\source\\repos\\ProyectoPruebaMVC2022\\Datos\\Conexion.cs",
+              "RelativeToolTip": "Datos\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T00:07:54.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProyectoPruebaMVC2022",
+              "DocumentMoniker": "C:\\Users\\clefn\\source\\repos\\ProyectoPruebaMVC2022\\ProyectoPruebaMVC2022.csproj",
+              "RelativeDocumentMoniker": "ProyectoPruebaMVC2022.csproj",
+              "ToolTip": "C:\\Users\\clefn\\source\\repos\\ProyectoPruebaMVC2022\\ProyectoPruebaMVC2022.csproj",
+              "RelativeToolTip": "ProyectoPruebaMVC2022.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-11T23:40:44.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioModels.cs",
+              "DocumentMoniker": "C:\\Users\\clefn\\source\\repos\\ProyectoPruebaMVC2022\\Models\\UsuarioModels.cs",
+              "RelativeDocumentMoniker": "Models\\UsuarioModels.cs",
+              "ToolTip": "C:\\Users\\clefn\\source\\repos\\ProyectoPruebaMVC2022\\Models\\UsuarioModels.cs",
+              "RelativeToolTip": "Models\\UsuarioModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T23:26:21.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

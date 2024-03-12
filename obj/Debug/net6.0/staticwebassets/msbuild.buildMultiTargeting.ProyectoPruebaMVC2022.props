@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProyectoPruebaMVC2022.props" />
+</Project>
